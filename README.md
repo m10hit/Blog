@@ -1,4 +1,4 @@
-# Blog
+# Daily Journal Blog
 :pencil: A blog website where the user can post their blog.
 
 # General Information
@@ -13,7 +13,7 @@ The website is developed to post blogs along with the title of the blog. The hom
 
 # Getting Started
 * The home page shows all the blogs that are posted on the website
-* To compose a blog, the user can navigate to **/compose** route of the same website. User needs to add "/compose" as a suffix in the URL to compose a blog
+* To compose a blog, the user can click on **compose** from the links given in the navigation bar
 * In the compose page, the user needs to enter a title of the blog and then the main content of the blog
 * To post the blog, user needs to click on the publish button
 * When the blog is published, the user is redirected to the home page, where the new blog is added along with the existing blogs
