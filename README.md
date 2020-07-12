@@ -20,10 +20,14 @@ The website is developed to post blogs along with the title of the blog. The hom
 * On the home page, the user can click on **About us** to know more about the developers and **Contact us** to get in touch with developers 
 
 # Screenshots
+**Home**
 ![](images/home-page.png)
 
+**Compose Page**
 ![](images/compose.png)
 
+**Home page after blog is published**
 ![](images/published.png)
 
+**Reading a particular blog**
 ![](images/read-more.png)
