@@ -18,3 +18,12 @@ The website is developed to post blogs along with the title of the blog. The hom
 * To post the blog, user needs to click on the publish button
 * When the blog is published, the user is redirected to the home page, where the new blog is added along with the existing blogs
 * On the home page, the user can click on **About us** to know more about the developers and **Contact us** to get in touch with developers 
+
+# Screenshots
+![](images/home-page.png)
+
+![](images/compose.png)
+
+![](images/published.png)
+
+![](images/read-more.png)
